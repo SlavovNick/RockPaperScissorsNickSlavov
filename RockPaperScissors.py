@@ -4,6 +4,7 @@ rock = 'Rock'
 paper = 'Paper'
 scissors = 'Scissors'
 
+
 player_move = input("Choose [r]ock, [p]aper or [s]cissors: ")
 
 if player_move == 'r':
